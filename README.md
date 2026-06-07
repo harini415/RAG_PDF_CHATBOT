@@ -15,3 +15,8 @@ A Streamlit-based PDF Chatbot that allows users to upload PDF documents and ask 
 python -m venv myenv
 myenv/scripts/activate
 ```
+## Run the Application
+
+```bash
+streamlit run app.py
+```
